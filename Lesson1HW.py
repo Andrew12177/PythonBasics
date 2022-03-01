@@ -32,6 +32,16 @@
 #         print("Максимальное цифра в числе ", max)
 #         break
 
+# cash = int(input('Enter cash: '))
+# exp = int(input('Enter expences: '))
+# res = cash - exp
+# if res > 1:
+#     print('You made profit: ', res)
+#     print(f'Profits efficiency {cash / exp:.2f}')
+#     headcount = int(input('Enter workers number: '))
+#     print(f'Headcount efficiency {cash / headcount:.2f}')
+# else:
+#     print('You make loses: ', res)
 
 
 
